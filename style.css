@@ -33,7 +33,7 @@ body {
     justify-content: center;
     width: 100%;
     height: 100vh;
-    background-image: url(https://sun1-97.userapi.com/xMXblgkXR6rpWpChrQAzwtwaeSWpF6Ht4kCvDA/w3DxirZXrgc.jpg);
+    background: url(https://sun1-97.userapi.com/xMXblgkXR6rpWpChrQAzwtwaeSWpF6Ht4kCvDA/w3DxirZXrgc.jpg) center no-repeat;
     background-size: cover;
 }
 
